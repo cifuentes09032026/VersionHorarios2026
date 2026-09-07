@@ -1,0 +1,40 @@
+@media only screen and (max-width: 995px) {
+    .img {
+        display: none;
+    }
+} 
+@media only screen and (min-width: 994px){
+    .img2 {
+       width: 100px;
+       height: 100px;
+       margin: 0 0 0 0;
+    }
+}   
+ @media only screen and (min-width: 995px) {
+    .img2 {
+        display: none;
+    }
+    .img{
+        width: auto;
+    }
+}  
+#abajo{
+    height: 12%;
+    width: 100%;
+    background: #39a900;
+    position: relative;
+    
+}
+
+#lt_aside{
+    background-image: -webkit-linear-gradient(top, #39a900, #2e8a00);
+} 
+
+#lt_nav{
+   background-image: -webkit-linear-gradient(left, #39a900, #2e8a00);
+}  
+
+
+.container li{
+    list-style-type: none;
+}

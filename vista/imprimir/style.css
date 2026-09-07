@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: lighter;
+  font-family: 'Montserrat', sans-serif;
+}
+
+table{
+    font-size: 12px;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+}
+table, tr, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+  }
+  td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
+  }
+
+ul{
+    background-color:#d6ffc2;
+    list-style:none;
+    padding: 5px;
+
+  }
+
+  .dias{
+    background-color: #39a900;
+    color: #fff;
+  }
+
+  
+  .hora{
+    width: 90px;
+   }
+ 
+ .horarios{
+  width: 70px;
+ }
+  .ambiente{
+    background-color:#fff3dd;
+    list-style:none;
+    padding: 0px;
+  }
+
+  

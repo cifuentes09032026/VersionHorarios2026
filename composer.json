@@ -1,0 +1,17 @@
+{
+    "name": "sena/horarios",
+    "autoload": {
+        "psr-4": {
+            "Sena\\Horarios\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "programersanz",
+            "email": "elprogramer69@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.2"
+    }
+}
